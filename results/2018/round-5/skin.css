@@ -1,0 +1,7 @@
+#logo {
+    width: 650px;
+    height: 220px;
+    background: url("../../2018-results-banner.png") left top no-repeat;
+    overflow: hidden;
+    display: block;
+}
